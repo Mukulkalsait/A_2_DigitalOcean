@@ -1,5 +1,4 @@
 # A_2_DigitalOcean → Linux VM + LXD + Nginx Setup Checklist
-
 This document is a **step-by-step execution checklist** used for video demonstration and verification.
 
 ---
