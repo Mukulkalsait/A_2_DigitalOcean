@@ -1,9 +1,0 @@
-[sshd]
-enabled = true
-port = ssh
-filter = sshd
-logpath = /var/log/fail2ban_auth.log
-maxretry = 3
-findtime = 10m
-bantime = 1h
-
